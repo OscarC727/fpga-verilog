@@ -1,0 +1,10 @@
+# Simulation and synthesis output
+*.vcd
+*.fst
+obj_dir/
+build/
+*.bit
+*.jou
+*.log
+.Xil/
+.DS_Store
