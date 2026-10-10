@@ -8,3 +8,9 @@ build/
 *.log
 .Xil/
 .DS_Store
+
+# Gowin / nextpnr / Icarus output
+*.fs
+*.json
+*_sim
+*.vvp
